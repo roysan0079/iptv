@@ -8,15 +8,1106 @@ http://p2prime.xyz:80/tvbox04/ucm352/8948?checkedby:iptvcat.com
 http://185.232.53.5:2086/wickeduk/etqyhww45e/3281?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV
-http://localdblagent.club:8080/Carlos1/Carlos1/9158?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV 2
-http://beyondstreamz.net:25461/live/Ouiga/779393/134621.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV 2
-http://localdblagent.club:8080/Carlos1/Carlos1/9157?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
-http://randomserver.site:2086/crystal/12345/3261?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY JR
-http://randomserver.site:2086/crystal/12345/3260?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY XD
-http://beyondstreamz.net:25461/live/Ouiga/779393/134584.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,group-title="USA",FOX Sports 1
+http://195.154.133.77/live/fs1.m3u8
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",3e UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1790.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",4Music UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1936.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",4Seven UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1937.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",5Star UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1963.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",5USA UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1964.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",AMC From BT UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1892.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",AT THE RACES UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1801.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Alibi UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1916.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Animal Planet +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1878.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Animal Planet UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1879.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC Four HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1990.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC Four UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1989.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC News HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1777.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One Channel Islands UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1776.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1998.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One Northern Ireland UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2000.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One Oxford UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1775.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One Scotland UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1786.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1997.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One Wales UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2002.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One Yorks UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1774.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC Parliament UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2003.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC Two HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1995.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC Two Scotland UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2004.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC Two UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1994.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC World News UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2006.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BET UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1961.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 1 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/370.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sports 1 HD 1080P" tvg-logo="" group-title="UK",VIP UK: BT Sports 1 HD 1080P
+http://client-proiptv.com:8080/live/I4haz9iSwE/mN0RRMIwpe/8178.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/369.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 2 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/368.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 2 UK
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sports 2 HD 1080P" tvg-logo="" group-title="UK",VIP UK: BT Sports 2 HD 1080P
+http://client-proiptv.com:8080/live/I4haz9iSwE/mN0RRMIwpe/8179.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sports 3 HD 1080P" tvg-logo="" group-title="UK",VIP UK: BT Sports 3 HD 1080P
+http://client-proiptv.com:8080/live/I4haz9iSwE/mN0RRMIwpe/8180.ts
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/367.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 3 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/366.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 3 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/365.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport ESPN HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1743.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport ESPN UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1819.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport Extra 1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1818.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport Extra 2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1817.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport Extra 3 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1816.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport Extra 4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1815.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport Extra 5 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1814.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport Mosaic 2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1813.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Baby TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1852.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Bike Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1893.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Blaze UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1787.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Bloomberg TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1770.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Boomerang +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1769.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Boomerang UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1862.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Box Hits UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1768.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Hip Hop & R & B Music TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1767.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BoxNation HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/5712.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BoxNation UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1805.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CAPITAL TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1778.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CBBC HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1993.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CBBC UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1991.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CBS Action UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1909.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CBS Drama UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1908.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CBS Reality UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1910.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CBeebies HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1741.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CITV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1740.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CNN UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1764.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Cartoon Network UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1857.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Cartoonito UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1865.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Challenge +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1944.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Challenge UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1782.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Channel 4 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1970.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Channel 4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1972.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Channel 5 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1967.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Channel 5 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1968.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Channel AKA UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1945.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Chart Show Hits UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1766.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Chart Show TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1765.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Chelsea TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1796.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Comedy Central Extra +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1894.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Comedy Central Extra UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1895.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Comedy Central UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1896.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Crime+Investigation +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1880.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",DMAX +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1876.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",DMAX UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1877.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Dave UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1911.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Dave ja vu UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1788.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Channel +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1887.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1886.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery History +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1872.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery History UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1873.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Home & Health +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1868.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Home & Health UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1826.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Science +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1874.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Science UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1875.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Shed UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1885.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Turbo UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1884.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Disney Channel +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1843.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Disney Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1844.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Disney Junior +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1762.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Disney Junior UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1845.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Disney XD +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1847.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Disney XD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1846.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Drama UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1863.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",E! +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1907.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",E! UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1934.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",E4 +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1965.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",E4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1966.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Eden +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1946.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Eden UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1935.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Eurosport 1 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1812.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Eurosport 2 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1811.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",FOX News UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1760.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",FOX UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1913.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",FOX+ UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1914.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Film4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1830.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Flava UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1761.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Food Network +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1941.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Food Network UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1942.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",GINX eSports TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1758.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",GOLD +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1947.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",GOLD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1915.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Geo News PK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1759.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Good Food UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1912.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",H2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1871.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Hillsong Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1757.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",History +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1866.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",History UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1867.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Home +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1869.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Home UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1870.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Horror Channel +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1926.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Horror Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1825.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1984.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV Encore +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1973.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV Encore UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1927.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV 1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1985.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV2 +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1981.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV2 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1983.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1982.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV3 +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1978.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV3 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1979.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV4 +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1975.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1976.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITVBe +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1974.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Investigation Discovery +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1882.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Investigation Discovery UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1883.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",KISS UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1929.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",KIX +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1755.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",KIX UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1756.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Kerrang! TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1928.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",LFC TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1802.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1834.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Rap 2K Music TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1754.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV Base UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1836.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV Classic UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1837.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV Dance UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1838.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV Hits UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1839.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV Music UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1840.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1835.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MU TV HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1797.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MUTV HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1810.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MUTV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1809.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Made In Bristol UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1949.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",More4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1930.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Motors TV HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1891.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Movies 24 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1829.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Movies4Men +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1828.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Movies4Men UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1827.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",My5 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1789.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nat Geo Wild UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1889.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nick Jr. +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1849.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nick Jr. Peppa UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1753.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nick Jr. Too UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1848.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nick Jr. UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1850.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",NickToons UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1864.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nickelodeon +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1858.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nickelodeon UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1859.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",PBS America UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1791.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",POP +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1751.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",POP UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1752.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Pick +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1951.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Pick UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1853.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Premier Sports HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1807.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Premier Sports UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1808.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Fjorton Music TV FHD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1962.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",QUEST RED +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1749.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",QUEST RED UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1750.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",QUEST UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1890.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",RTÉ Jr UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1854.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",RTÉ News Now UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1748.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",RTÉ One HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1933.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",RTÉ One UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1856.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",RTÉ Two HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1932.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",RTÉ Two UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1855.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Racing UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1800.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Real Lives +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1952.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Real Lives UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1939.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Really UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1940.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Latino Pop Music TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1784.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",S4C UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1931.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Scuzz UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1747.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky 1 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1920.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky 1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1919.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky 2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1918.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Arts UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1917.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Atlantic +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1921.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Atlantic UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1922.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Action & Adventure HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/351.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Action & Adventure UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/352.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Comedy HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/349.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Comedy UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/350.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Crime & Thriller UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/348.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Disney HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/346.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Disney UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/347.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Drama & Romance UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/345.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Family HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/343.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Family UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/344.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Greats UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/342.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Oscars UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1823.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Premiere +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1824.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Premiere UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/341.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Sci-Fi & Horror UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/340.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Select UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/339.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Hits UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1822.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Living +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1923.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Living UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1924.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky News UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1925.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Action HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/333.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Action UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/374.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Arena HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6201.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Arena UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6200.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Cricket HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/334.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Cricket UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/375.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports F1 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/371.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports F1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/337.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Football HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6204.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Football UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6203.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Golf HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/332.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Golf UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/373.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Main Event HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/335.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Main Event UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/376.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Mix HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1821.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports News HQ UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/336.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Premier League HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/331.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Premier League UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/372.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sony Channel +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1943.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Starz TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1746.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Syfy +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1899.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Syfy UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1900.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TCM +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1954.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TCM UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1955.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TG4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1793.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TLC +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1902.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TLC +2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1901.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TLC UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1903.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Tom And Jerry HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/10560.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TV3 +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1957.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TV3 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1958.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",The Box UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1745.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",The Vault UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1744.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Tiny Pop +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1860.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Tiny Pop UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1861.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Travel Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1781.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",True Crime +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1832.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",True Crime UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1833.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",True Entertainment UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1783.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",True Movies +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1831.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",UTV HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1959.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Universal Channel +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1897.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Universal Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1898.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",VH1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1841.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",VIVA UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1842.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Viceland UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1953.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Vintage TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1960.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",W +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1904.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",W UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1905.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",World Fight Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1948.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",YESTERDAY UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1906.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",YourTV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1785.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",eir Sport 1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1804.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",eir Sport 2 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1798.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",eir Sport 2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1803.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",tru TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1956.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",A&E HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/550.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",A&E TV HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7771.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ABC FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7592.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ABC HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/539.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ABC News HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/540.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",AFN Spectrum HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7726.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",AFN Sport 1 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1136.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",AFN Sport 2 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1135.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",AMC HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/521.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",AMC US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7792.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Amazing Discoveries HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/551.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Animal Planet US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7791.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",BET HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7770.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",BYU TV US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/522.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Bloomberg Europe US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/503.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Bloomberg TV HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/489.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Boomerang US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/502.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Bravo HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/541.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Bravo US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7790.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",C-Span 1 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/564.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",C-Span 2 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/565.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",C-Span 3 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/566.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CBS US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/486.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CBSN HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/524.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CNBC US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/525.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CNN HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/568.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CW HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/543.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CW US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7777.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CW11 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/500.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Cable News Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7769.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Cartoon Network US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/523.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Chiller HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7717.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CineMax 5 StarMax US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/507.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CineMax Action HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/567.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CineMax ActionMax East US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/508.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CineMax East US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/509.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CineMax MoreMax US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/501.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Cinemax Action US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7789.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Cinemax More HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7768.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Comedy Central FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/542.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Comedy Central US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7788.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",DIY Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7728.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",DIY Network US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/482.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",DW US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/528.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Discovery Channel CA FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7580.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Discovery Channel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7767.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Discovery HD Showcase US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/499.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Discovery HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/526.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Discovery Science HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/510.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Discovery Velocity US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/527.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Disney Channel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7766.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Disney XD HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7765.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",E! Entertainment HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7764.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ESPN 1 HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7763.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ESPN 1 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/552.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ESPN 2 FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/569.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ESPN 2 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7787.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ESPN HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/544.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",El Rey Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7715.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",FOX 43 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/570.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",FX HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/513.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",FX US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7784.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fashion One HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/498.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fight HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/529.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fight Sport HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/584.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fine Living US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/497.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Food Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/511.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Food Network US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7783.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/512.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox News HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/545.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Soccer Plus HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6206.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Soccer Plus US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7785.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports 1 HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/553.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports 1 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7786.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports 2 FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/554.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports 2 HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7759.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports 506 HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/571.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports College Central HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7756.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7760.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports North HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7752.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Free Form HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/572.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",FreeForm HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7688.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fuel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/496.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",GSN HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7749.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",H2 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/514.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO Comedy HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/530.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO East US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/483.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO Family HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7748.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/531.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO Signature HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7747.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO Signature US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/484.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7776.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO Zone US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/532.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HGTV HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/495.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HGTV US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7782.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HIFI US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/516.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Hallmark Channel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7746.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Hallmark US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/515.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",History HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/546.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",History US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7781.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",IFC HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7710.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Investigation Discovery HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7693.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Lifetime HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7745.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",MLB HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/573.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",MLB Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7701.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",MLB Network US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/574.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",MSNBC HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/575.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",MTV Base HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7744.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",MTV Rocks US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/494.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBA HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/533.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBC Golf Channel FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6147.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBC Golf Channel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6146.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBC Golf HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7743.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBC News HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7742.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBC SN HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7741.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBC US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/490.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBCSN HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/555.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NFL Network 1 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/504.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NFL Network FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/505.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NFL Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/556.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NFL Network US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7793.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NFL Now HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7773.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NFL Redzone HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7772.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NHL Network US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/576.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Nat Geo Wild HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7692.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Nat Geographic HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7691.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",National Geographic US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/517.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Oprah Winfrey Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7740.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Outdoor Channel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/493.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",PAC-12 Arizona US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/557.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",PAC-12 Bay Area US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/558.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",PAC-12 Los Angeles FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/559.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",PAC-12 Oregon FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/560.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",PAC-12 Washington FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/561.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Reelz HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7739.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",SEC Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7707.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Science HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7738.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Showtime 2 HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7737.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Showtime 2 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/534.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Showtime East HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7736.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Showtime FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/535.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Showtime Showcase HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7735.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Showtime West US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/485.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Smile Of A Child US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/492.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Spike HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/518.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Spike TV HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7727.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Starz Cinema US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/536.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Starz Comedy US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/537.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Starz Edge HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/519.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Starz Edge US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7780.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Starz Encore HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7731.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Starz Encore US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/538.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",SyFy HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/548.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",SyFy US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7779.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",TBS HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/578.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",TNT HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/549.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Travel Channel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7694.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",UFC Fight Pass US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6421.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",US Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/520.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",USA HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7729.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",USA Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/547.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Univision HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7704.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",VH1 Classic US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/491.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",WWE HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/562.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",WWE Network FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7544.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",WWE US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7778.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",beINSports HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/506.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",truTV HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7705.ts
+#EXTINF:-1, tvg-logo="https://insidemanila.ph/images/content/17-2017-10-12-03-53-25pm.jpg" group-title="PINOY TV", ESPN 5
+http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&id=AgBwxmdqQZkSBWUJ4VqD0Ih+K4%2f9ACgmF7VtfgK%2fqqDtsrlJrS2b9cD7QhNeX%2fYAiVXRhBLyPtQxKw%3d%3d&hdntl=exp=1524783845~acl=%2f*~data=hdntl~hmac=26f6995044c9acb4e47c9c71e807ae3fec32430f50fdb7cfbbb1e595bc04e773
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9.jpg" group-title="PINOY TV", CNN PHILIPPINES
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV PHILS
+https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b2592000.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/753895989904367616/GvgKNn1u.jpg" group-title="PINOY TV", INQUIRER 990
+https://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist_w980265345.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/870865623047262208/1-IrAl1L_400x400.jpg" group-title="PINOY TV", PILIPINAS HD
+https://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist_w663856267.m3u8
+#EXTINF:-1, tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/d/df/Cropped-island_living_logo.png" group-title="PINOY TV", ISLAND LIVING CHANNEL
+https://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist_w836722160.m3u8
+#EXTINF:-1, tvg-logo="https://l3.tikilive.com/public/files/shows/157/157639/45392-800x450-FFFFFF.jpgg" group-title="PINOY TV", LIFE TV
+https://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist_w901462722.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/889363645942988800/ZYNI7o0U_400x400.jpg" group-title="PINOY TV", TBN ASIA
+https://59c3ec70cfde0.streamlock.net/channel_3/channel3/chunklist_w892560450.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/OShopping_2015.png" group-title="PINOY TV", BEAM O SHOPPING
+https://59c3ec70cfde0.streamlock.net/channel_2/channel2/chunklist_w838248083.m3u8
+#EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
+https://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist_w174661881.m3u8
+#EXTINF:-1, tvg-logo="http://www.filipinotelevision.com/wp-content/uploads/2014/05/slider-tfc-unit.png"  group-title="PINOY TV", TFC
+http://vapi.vaders.tv/play/38782.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+#EXTINF:-1, tvg-logo="https://mark.trademarkia.com/logo-images/gma-network/gma-life-tv-77287763.jpg" group-title="PINOY TV", GMA Life TV
+http://vapi.vaders.tv/play/39631.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/GMA_News_TV_official_slogan.jpg" group-title="PINOY TV", GMA News
+http://vapi.vaders.tv/play/39633.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+#EXTINF:-1, tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/07104534gma%20pinoytv.png" group-title="PINOY TV", GMA Pinoy
+http://vapi.vaders.tv/play/39632.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+#EXTINF:-1, tvg-logo="http://www.nyxmartinez.com/wp-content/uploads/2015/05/Living-Asia-Channel.jpg" group-title="PINOY TV", LIVING ASIA CHANNEL
+https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC HD" tvg-logo="http://www.imctv.com/wp-content/uploads/2017/06/abc.jpg" group-title="CANADA",ABC HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17427.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC SPARK" tvg-logo="http://lh3.googleusercontent.com/-JfJ4JQmSQ7Q/AAAAAAAAAAI/AAAAAAAAAB4/Y9jsTX_TQdE/photo.jpg?sz=500" group-title="CANADA",ABC SPARK
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17428.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356" group-title="CANADA",Animal Planet HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1267.ts
+#EXTINF:-1 tvg-id="" tvg-name="BNN  HD" tvg-logo="https://pbs.twimg.com/profile_images/497038385077178368/N3dbK0AO.jpeg" group-title="CANADA",BNN  HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17423.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bravo HD" tvg-logo="http://www.mmeink.com/west/images/clients/logos/clients-logo-bravo-blackbox.jpg" group-title="CANADA",Bravo HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1245.ts
+#EXTINF:-1 tvg-id="ca.CBC News Network HDTV" tvg-name="CBC HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/b/b7/Cbc-logo.png/revision/latest?cb=20110304223128" group-title="CANADA",CBC HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1246.ts
+#EXTINF:-1 tvg-id="" tvg-name="CP 24 HD" tvg-logo="https://pbs.twimg.com/profile_images/459428906571804672/jx_823KA.png" group-title="CANADA",CP 24 HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1250.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-logo="https://cdn1.iconfinder.com/data/icons/metro-ui-dock-icon-set--icons-by-dakirby/512/CNN.png" group-title="CANADA",CNN HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17430.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY HD" tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/comedygold.png" group-title="CANADA",COMEDY HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17431.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY HD" tvg-logo="http://www.959chfm.com/wp-content/uploads/sites/12/2017/05/CHITTY.jpg" group-title="CANADA",CITY HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1249.ts
+#EXTINF:-1 tvg-id="" tvg-name="CPAC HD" tvg-logo="https://up.metropol247.co.uk/TorontoCommons/CPAC%20Top%20Of%20The%20Hour%20Slide.png" group-title="CANADA",CPAC HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17432.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS HD" tvg-logo="https://media.clickorlando.com/photo/2015/11/03/CBS-HD-Logo_198794_ver1.0_1280_720.jpg" group-title="CANADA",CBS HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1248.ts
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="http://putchannel.com/wp-content/uploads/2017/06/bet_logo_a_l.jpg" group-title="CANADA",BET
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/2424.ts
+#EXTINF:-1 tvg-id="" tvg-name="CTV ATLANTIC" tvg-logo="https://pbs.twimg.com/profile_images/443036081118658560/j9spWnRr_400x400.png" group-title="CANADA",CTV ATLANTIC
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17445.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://horrorfuel.com/wp-content/uploads/2015/06/amc-3-e1501368052858.png" group-title="CANADA",AMC HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17429.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD  HD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png?w=605" group-title="CANADA",NAT GEO WILD  HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17444.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="https://24.p3k.hu/app/uploads/2017/10/national_geographic_hd_tv-1024x576-1024x576.jpg" group-title="CANADA",NAT GEO HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17443.ts
+#EXTINF:-1 tvg-id="" tvg-name="Create HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/e/eb/Createtv.png/revision/latest/scale-to-width-down/250?cb=20150505173224" group-title="CANADA",Create HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1251.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="https://1.bp.blogspot.com/-VB52laM8py8/V-rFMfe9VhI/AAAAAAAAORw/rKKgt7pb5q40_txBd7YPp-DLqo4-NuwgACLcB/s1600/Lifetime%2BHD.png" group-title="CANADA",LIFETIME HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17440.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://media.iqads.ro/2017/01/logo-history-cover-800.jpg" group-title="CANADA",HISTORY HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17439.ts
+#EXTINF:-1 tvg-id="" tvg-name="ME TV HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/2/21/MeTV_logo_2014.png/revision/latest/scale-to-width-down/199?cb=20170114211815" group-title="CANADA",ME TV HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1263.ts
+#EXTINF:-1 tvg-id="" tvg-name="Global HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a9/Global_logo.png/revision/latest/scale-to-width-down/185?cb=20130314143829" group-title="CANADA",Global HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1258.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/200px-FOX_wordmark.svg.png" group-title="CANADA",FOX HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1257.ts
+#EXTINF:-1 tvg-id="" tvg-name="GSN HD" tvg-logo="https://zazeen.com/testsite/images/testsite/Individual%20Icons/GSN.png" group-title="CANADA",GSN HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1259.ts
+#EXTINF:-1 tvg-id="" tvg-name="CW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/450px-The_CW.svg.png" group-title="CANADA",CW HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1253.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="http://www.cinesargentinos.com.ar/noticias/wp-content/uploads/2008/02/e-channel.jpg" group-title="CANADA",E! HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/2103.ts
+#EXTINF:-1 tvg-id="" tvg-name="HLN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HLN_2017_new_logo.png" group-title="CANADA",HLN HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1262.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIY NETWORK HD" tvg-logo="http://www.alticemediasolutions.com/sites/default/files/styles/homepage_news___features/public/diy-network.jpg?itok=O8eF82gA" group-title="CANADA",DIY NETWORK HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17436.ts
+#EXTINF:-1 tvg-id="ca.FXX HDTV Canada" tvg-name="FXX HD" tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fx-hd.png" group-title="CANADA",FXX HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1463.ts
+#EXTINF:-1 tvg-id="ca.FX HDTV (Canada)" tvg-name="FX HD" tvg-logo="http://mhc.banhtml.com/wp-content/uploads/2015/09/s14321_h3_ba.png" group-title="CANADA",FX HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1462.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="https://www.savourychef.com/wp-content/uploads/2012/11/food-network-canada.jpg" group-title="CANADA",FOOD NETWORK HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17438.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-2-Logo.jpg" group-title="MOVIES PREMIUM",HBO 2 HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1260.ts
+#EXTINF:-1 tvg-id="ca.HBO Canada HDTV (East)" tvg-name="HBO HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/8c/c3/41/8cc341ea1660cb59c0b4ffde59d34e50.jpg" group-title="MOVIES PREMIUM",HBO HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1261.ts
+#EXTINF:-1 tvg-id="" tvg-name="CTV HD" tvg-logo="https://static.ctv.ca/get-bm-media/635978803631770556/5763dfaf-f3a4-4e15-9426-496994caf642/0/0" group-title="CANADA",CTV HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1252.ts
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC HD" tvg-logo="https://images.bwwstatic.com/tvnetworklogos/10392E34-EB20-E0FF-A9C40C917058CEEB.jpg" group-title="CANADA",MSNBC HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17442.ts
+#EXTINF:-1 tvg-id="ca.The Oprah Winfrey Network Canada HDTV" tvg-name="OWN HD" tvg-logo="http://cdn.skim.gs/image/upload/v1456339727/msi/own-network-preview_x4pzpd.jpg" group-title="CANADA",OWN HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1471.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Space_logo_2013.svg/240px-Space_logo_2013.svg.png" group-title="CANADA",SPACE HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17422.ts
+#EXTINF:-1 tvg-id="" tvg-name="OLN HD" tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/oln-300x300_jan15.png" group-title="CANADA",OLN HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17426.ts
+#EXTINF:-1 tvg-id="" tvg-name="PBS Vermont HD" tvg-logo="https://imgur.com/OOUKgme.png" group-title="CANADA",PBS Vermont HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17425.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WPTZ_5_logo.png" group-title="CANADA",NBC HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1265.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/04/hgtv-home-logo-design.png" group-title="CANADA",HGTV HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17446.ts
+#EXTINF:-1 tvg-id="ca.The Learning Channel Canada" tvg-name="TLC HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b8/TLCK_Channel_Logo.png/revision/latest/scale-to-width-down/200?cb=20151210143955" group-title="CANADA",TLC HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1473.ts
+#EXTINF:-1 tvg-id="" tvg-name="Slice HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/6/60/Slice_2007.png/revision/latest/scale-to-width-down/150?cb=20110611232919" group-title="CANADA",Slice HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1268.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOWCASE HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/191.png" group-title="CANADA",SHOWCASE HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17421.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112015/disney_channel_0.png" group-title="CANADA",DISNEY CHANNEL HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17433.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2013/04/DJ.jpg?ebbec3" group-title="CANADA",DISNEY JR HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17434.ts
+#EXTINF:-1 tvg-id="ca.Disney XD Canada (East)" tvg-name="Disney XD HD" tvg-logo="https://static1.squarespace.com/static/5920505f9f7456b860641b58/593cf29a1e5b6ca18cb0b7f0/593fb846d482e9b762ba99ce/1497348195066/disney-xd-logo.png?format=500w" group-title="KIDS",Disney XD HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1254.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEACH TREE HD" tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/PeachtreeTVHD.png" group-title="CANADA",PEACH TREE HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17424.ts
 
+#EXTINF:-1,UK.BT-Sports1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1349
+#EXTINF:-1,UK.BT-Sports2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1348
+#EXTINF:-1,UK-Discovery-History.HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1346
+#EXTINF:-1,UK.Sky-Sports1HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1324
+#EXTINF:-1,UK.Sky-Sports2HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1323
+#EXTINF:-1,UK.Sky-Sports3HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1322
+#EXTINF:-1,UK.Sky-Sports4HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1321
+#EXTINF:-1,UK.Sky-Sports5HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3070
+#EXTINF:-1,UK.SkySports.F1HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1320
+#EXTINF:-1,UK.Sky-Movies-Action
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1332
+#EXTINF:-1,UK.Sky-Movies-Scifi.Horror
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1327
+#EXTINF:-1,UK.Sky-Movies-Modern
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1328
+#EXTINF:-1,UK.Sky-Movies-Family
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1329
+#EXTINF:-1,UK.Sky-Movies-Drama
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1330
+#EXTINF:-1,UK.Sky-Movies-Comedy
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1331
+#EXTINF:-1,UK.Sky-Thriller-HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1947
+#EXTINF:-1,UK.Sky-Movie-ShowCase
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1948
+#EXTINF:-1,UK.Sky-Atlantic-Plus1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1946
+#EXTINF:-1,UK.Nat-GeoGraphic
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1340
+#EXTINF:-1,UK.Discovery-Channel
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1341
+#EXTINF:-1,UK.SkyPremier
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3066
+#EXTINF:-1,UK.SkyLiving
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3065
+#EXTINF:-1,UK.Sky-Movies-Seclect
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3069
+#EXTINF:-1,UK.Sky-Disney
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3063
+#EXTINF:-1,UK.Nickelodeon
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3071
+#EXTINF:-1,UK.Discovery-Science.HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3059
+#EXTINF:-1,UK.Animal-Planet
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3061
+#EXTINF:-1,UK.Nat-Geo-Wild
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3053
+#EXTINF:-1,UK.History
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3060
+#EXTINF:-1,UK.Alibi
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3057
+#EXTINF:-1,UK.Itv-1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3056
+#EXTINF:-1,UK.Itv-2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3055
+#EXTINF:-1,UK.Itv-3
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3054
+#EXTINF:-1,UK.DisneyXd
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3072
+#EXTINF:-1,UK.BBC-1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1351
+#EXTINF:-1,UK.BBC-News
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3046
+#EXTINF:-1,UK.BBC-2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1350
+#EXTINF:-1,UK.BBC-3
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1319
+#EXTINF:-1,UK.BBC-4
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3047
