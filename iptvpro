@@ -2,5 +2,22 @@
 #PLAYLIST:ROYSAN
 #EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/JNmRU3V.png" group-title="Undefined",SBS International
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CAN-NBA TV HD (TV)(720)
-http://tv.masterplaytv.xyz:8000/JorHol08292018/15JORmEYEQR/53970?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV FHD
+http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11684.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET SD²
+http://p2prime.xyz:80/tvbox04/ucm352/8948?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3281?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO
+http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/5620.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISNEY XD HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14250?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Disney Jr
+http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/5615.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",History
+http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History
+http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/5624.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-History Channel (TV)(720)
+http://tv.masterplaytv.xyz:8000/JorHol08292018/15JORmEYEQR/53972?checkedby:iptvcat.com
+
