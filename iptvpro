@@ -1,186 +1,28 @@
 #EXTM3U
-#PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET
-http://randomserver.site:2086/crystal/12345/3281?checkedby:iptvcat.com
+#PLAYLIST:ROYSAN
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/JNmRU3V.png" group-title="Undefined",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
+http://p2prime.xyz:80/tvbox04/ucm352/8948?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET
 http://185.232.53.5:2086/wickeduk/etqyhww45e/3281?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET
-http://kstv.xyz:8080/Ray/1234/40775?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
-http://beyondstreamz.net:25461/live/Ouiga/779393/134517.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
-http://localdblagent.club:8080/Carlos1/Carlos1/8828?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
-http://localdblagent.club:8080/1935/1935/8828?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Animal.Planet
-http://mhiptv.com:8888/noval/123456/15214?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Animal Planet
-http://mihaita.gtxpro.co:8880/live/Bogdanel/Bogdanel/11037.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Animal Planet HD (R)
-http://ingrid.ltd:25461/Juan123456/Juan123456/67496?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Animal Planet SD (P)
-http://ingrid.ltd:25461/Juan123456/Juan123456/67340?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA DISCOVERY SCIENCE
-http://main.realiptv.to:25461/admin/admin/3274?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Disney Channel
-http://main.realiptv.to:25461/admin/admin/3113?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Disney Junior
-http://main.realiptv.to:25461/admin/admin/3136?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA HBO 1
-http://main.realiptv.to:25461/admin/admin/3189?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA HBO 2
-http://main.realiptv.to:25461/admin/admin/3188?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA HDCBO
-http://main.realiptv.to:25461/admin/admin/88068?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-Discovery Science (M)
-http://tv.masterplaytv.xyz:8000/JorHol08292018/15JORmEYEQR/3681?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-Disney (720)(M)
-http://tv.masterplaytv.xyz:8000/JorHol08292018/15JORmEYEQR/3682?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-Disney JR (720)(M)
-http://tv.masterplaytv.xyz:8000/JorHol08292018/15JORmEYEQR/3684?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CAN-Disney Junior (TV)(720)
-http://tv.masterplaytv.xyz:8000/JorHol08292018/15JORmEYEQR/53983?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Cartoon Network SD (R)
-http://ingrid.ltd:25461/Juan123456/Juan123456/67313?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Cartoon.Network
-http://mhiptv.com:8888/noval/123456/15240?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/71191.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY CANADA
-http://kstv.xyz:8080/Ray/1234/40727?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
-http://randomserver.site:2086/crystal/12345/3263?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO
+http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/5620.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/7OsxUER.png" group-title="Undefined",UNTV
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="News",CNN Phillippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
 http://185.232.53.5:2086/wickeduk/etqyhww45e/3263?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
-http://randomserver.site:2086/crystal/12345/3262?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
 http://185.232.53.5:2086/wickeduk/etqyhww45e/3262?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/71190.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
-http://localdblagent.club:8080/Carlos1/Carlos1/9118?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
-http://localdblagent.club:8080/1935/1935/9118?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE CANADA
-http://kstv.xyz:8080/Ray/1234/40726?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY
-http://randomserver.site:2086/crystal/12345/93917?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY CANADA
-http://kstv.xyz:8080/Ray/1234/40725?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
 http://185.232.53.5:2086/wickeduk/etqyhww45e/3261?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY JR
 http://185.232.53.5:2086/wickeduk/etqyhww45e/3260?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY JR
-http://randomserver.site:2086/crystal/12345/3260?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
-http://randomserver.site:2086/crystal/12345/3261?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY JR
-http://kstv.xyz:8080/Ray/1234/40723?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY JR
-http://main.realiptv.to:25461/live/admin/admin/92703.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY JR Ca
-http://mihaita.gtxpro.co:8880/live/Bogdanel/Bogdanel/11016.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/70764.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY XD
 http://185.232.53.5:2086/wickeduk/etqyhww45e/65851?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY XD
-http://beyondstreamz.net:25461/live/Ouiga/779393/134584.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY XD
-http://randomserver.site:2086/crystal/12345/65851?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery.Science
-http://mhiptv.com:8888/noval/123456/15212?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Channel (R)
-http://ingrid.ltd:25461/Juan123456/Juan123456/67300?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery
-http://mhiptv.com:8888/noval/123456/15211?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney
-http://redcoliptv.com:8090/ulises127/dg0fDsnS5C/14914?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Channel HD
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/11538?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Channel HD
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11538.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Channel HD (R)
-http://ingrid.ltd:25461/Juan123456/Juan123456/67299?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney JR HD CA
-http://mihaita.gtxpro.co:8880/live/Bogdanel/Bogdanel/10959.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Junior HD (R)
-http://ingrid.ltd:25461/Juan123456/Juan123456/67322?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney XD HD
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/11548?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney XD HD
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11548.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney XD HD (R)
-http://ingrid.ltd:25461/Juan123456/Juan123456/67298?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney.JR
-http://mhiptv.com:8888/noval/123456/15239?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HISTORY
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/71187.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HISTORY CHANNEL
-http://185.232.53.5:2086/wickeduk/etqyhww45e/3242?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HISTORY
-http://kstv.xyz:8080/Ray/1234/40693?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HISTORY 2
-http://main.realiptv.to:25461/live/admin/admin/3281.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HISTORY CHANNEL
-http://randomserver.site:2086/crystal/12345/3242?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",History
-http://mhiptv.com:8888/noval/123456/15216?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",History (FR)
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/11615?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",History (FR)
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11615.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",History 2
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/11617?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",History 2
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11617.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",History Channel HD (R)
-http://ingrid.ltd:25461/Juan123456/Juan123456/67286?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV LIVE HD
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11670.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NATIONAL GEO
-http://localdblagent.club:8080/Carlos1/Carlos1/9162?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NATIONAL GEO
-http://localdblagent.club:8080/1935/1935/9162?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC
-http://185.232.53.5:2086/wickeduk/etqyhww45e/13233?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC
-http://randomserver.site:2086/crystal/12345/13233?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NICK
-http://kstv.xyz:8080/Ray/1234/40586?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NICKELODEON
-http://randomserver.site:2086/crystal/12345/3238?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NICKELODEON
-http://185.232.53.5:2086/wickeduk/etqyhww45e/3238?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NICKTOONS
-http://main.realiptv.to:25461/live/admin/admin/92710.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NICKTOONS HD
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/11692?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NICKTOONS HD
-http://beyondstreamz.net:25461/live/Ouiga/779393/134626.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NICKTOONS HD
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11692.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Nat Geo Wild HD CA
-http://mytv.fun:8080/7772dyifs/s8c5s6a95d/632607?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NatGeo
-http://mhiptv.com:8888/noval/123456/15209?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NatGeo.Wild
-http://mhiptv.com:8888/noval/123456/15210?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",National Geographic (R)
-http://ingrid.ltd:25461/Juan123456/Juan123456/67280?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",National Geographic HD
-http://redcoliptv.com:8090/ulises127/dg0fDsnS5C/14905?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",National Geographic Wild (R)
-http://ingrid.ltd:25461/Juan123456/Juan123456/67246?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Nick HD CA
-http://mytv.fun:8080/7772dyifs/s8c5s6a95d/632654?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Nickelodeon (R)
-http://ingrid.ltd:25461/Juan123456/Juan123456/67240?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Nick.Toons
-http://mhiptv.com:8888/noval/123456/15237?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",nickelodeon HD
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/11690?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",nickelodeon HD
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11690.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",US_HD:Cinemax west
+http://redcoliptv.com:8090/ulises127/dg0fDsnS5C/7774?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX ACTION MAX
+http://dream4k.co:8080/Beki/8420697372/142921?checkedby:iptvcat.com
