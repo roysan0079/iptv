@@ -1,46 +1,10 @@
 #EXTM3U
 #PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG
-http://randomserver.site:2086/crystal/12345/92720?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG FHD ²
-http://forceie.com:2082/sony123/sony123/31173?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG FHD²
-http://p2prime.xyz:80/tvbox04/ucm352/9124?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG HD
-http://localdblagent.club:8080/Carlos1/Carlos1/13422?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG HD²
-http://p2prime.xyz:80/tvbox04/ucm352/9123?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/14240?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG SD²
-http://p2prime.xyz:80/tvbox04/ucm352/9125?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Boomerang
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/9296.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Boomerang Full HD
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/9166.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Boomerang HD
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/5604.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Boomerang
-http://mhiptv.com:8888/noval/123456/15241?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",Boomerang Full HD
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/9029.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",IFRI  BOOMERANG
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/66.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",IFRI  BOOMERANG FHD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/13058.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",IFRI  BOOMERANG H265
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/13059.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",IFRI  BOOMERANG HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/67.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",- Boomerang
-http://dream4k.co:8080/Beki/8420697372/51578?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",BOOMERANG
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/68680.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Boomerang
-http://mhiptv.com:8888/noval/123456/12758?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",BOOMERANG
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/72502.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BOOMERANG
-http://185.232.53.5:2086/wickeduk/etqyhww45e/88682?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BOOMERANG HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/73007.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/7OsxUER.png" group-title="Undefined",UNTV
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="News",CNN Phillippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+http://localdblagent.club:8080/Carlos1/Carlos1/9118?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Discovery Science HD
+http://beyondstreamz.net:25461/live/Ouiga/779393/175107.m3u8?checkedby:iptvcat.com
