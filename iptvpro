@@ -27,20 +27,26 @@ http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zmzq3pF.png" group-title="KOREA",YTN
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
-#PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Channel HD
-http://latvonlive.com:33612/Lulu/1234/624?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Animal Planet HD
-http://latvonlive.com:33612/Lulu/1234/57?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Turbo
-http://latvonlive.com:33612/Lulu/1234/134?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",National Geographic HD
-http://latvonlive.com:33612/Lulu/1234/590?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
-http://beastiptv.tv:25461/live/Reyr07/Glendat11/2713.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",NBA TV HD
 http://tv4all.cyou:80/3030498113/0405515466/868?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV
 http://www.imperiumeye.net:8080/live/Ryan_Tully/0eGXfzjimJ/26870.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV HD
-http://latvonlive.com:33612/Lulu/1234/262?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/15363.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://www.imperiumeye.net:8080/live/Ryan_Tully/0eGXfzjimJ/27254.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Animal Planet
+http://iptvsmarters.cc:25461/live/muratkar/muratkar/4284.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Animal Planet
+http://iptvsmarters.cc:25461/ssahin/ssahin/4284?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://193.33.39.108:8107/30704?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ANIMAL PLANET SD¹
+http://paristvs.xyz:80/alef12/alef12/556?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD²
+http://paristvs.xyz:80/alef12/alef12/250?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ANIMAL PLANET FHD ALT
+http://fonteangelusiptv.com:25461/darkman/darkman/178674?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ANIMAL PLANET FHD
+http://fonteangelusiptv.com:25461/darkman/darkman/178673?checkedby:iptvcat.com
+
