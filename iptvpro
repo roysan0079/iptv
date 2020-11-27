@@ -1,21 +1,12 @@
 #EXTM3U
+
 #PLAYLIST:ROYSAN
 #EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/JNmRU3V.png" group-title="Undefined",SBS International
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="3ABN Kids" tvg-logo="https://i.imgur.com/bi97moY.png" group-title="USA",3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 tvg-name="CBN News International" tvg-id="" group-title="USA" tvg-logo="https://i.imgur.com/VS1lw49.png",CBN News International
-#EXTINF:-1 tvg-name="Popular Science TV" tvg-id="" tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="USA",Popular Science TV
-http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/TvmeXdZ.png" group-title="USA",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-name="****************** KOREA ************",****************** KOREA ************
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="KCTV - Nordkorea" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/aYmkkM2.png",KCTV - Nordkorea
-plugin://plugin.video.youtube/play/?video_id=wSGVaSDgkdY
-#EXTINF:-1 tvg-name="All the K-Pop" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/tJ8GRqi.png",All the K-Pop
-plugin://plugin.video.youtube/play/?video_id=8zUdwHwuwhQ
 #EXTINF:-1 tvg-name="Arirang" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/RuHZ6Dx.png",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CBS TV" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/SRuYtfZ.jpg",CBS TV
@@ -34,13 +25,22 @@ http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFrJTOr.jpg" group-title="KOREA",G1
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="KOREA",GCN
-http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
-#EXTINF:-1 tvg-name="KBS LiveCam DokDo" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/b7uMB9T.png",KBS LiveCam DokDo
-http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/gljQEfD.png",KBS World
-plugin://plugin.video.youtube/play/?video_id=4gwqZYZ-OSw
-#EXTINF:-1 tvg-name="SBS News" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/Gv7Ajkd.jpg",SBS News
-plugin://plugin.video.youtube/play/?video_id=0uwK35Go394
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zmzq3pF.png" group-title="KOREA",YTN
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Channel HD
+http://latvonlive.com:33612/Lulu/1234/624?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://latvonlive.com:33612/Lulu/1234/57?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Turbo
+http://latvonlive.com:33612/Lulu/1234/134?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",National Geographic HD
+http://latvonlive.com:33612/Lulu/1234/590?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/2713.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",NBA TV HD
+http://tv4all.cyou:80/3030498113/0405515466/868?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV
+http://www.imperiumeye.net:8080/live/Ryan_Tully/0eGXfzjimJ/26870.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV HD
+http://latvonlive.com:33612/Lulu/1234/262?checkedby:iptvcat.com
