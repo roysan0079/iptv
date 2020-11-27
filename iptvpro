@@ -2,70 +2,37 @@
 #PLAYLIST:ROYSAN
 #EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/JNmRU3V.png" group-title="Undefined",SBS International
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",ABS CBN
-http://randomserver.site:2086/live/Bria/Bria/98644.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",ABS CBN
-http://randomserver.site:2086/live/crystal/12345/98644.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",ANIMAL PLANET
-http://randomserver.site:2086/live/Bria/Bria/93231.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",ANIMAL PLANET
-http://randomserver.site:2086/live/crystal/12345/93231.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",ANIMAX
-http://randomserver.site:2086/live/Bria/Bria/93232.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",ANIMAX
-http://randomserver.site:2086/live/crystal/12345/93232.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",ANIPLUS
-http://randomserver.site:2086/live/crystal/12345/98646.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",ANIPLUS
-http://randomserver.site:2086/live/Bria/Bria/98646.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Sport",BEIN SPORTS 1
-http://randomserver.site:2086/live/crystal/12345/98647.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Sport",BEIN SPORTS 1
-http://randomserver.site:2086/live/Bria/Bria/98647.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",CNN PHILIPPINES
-http://randomserver.site:2086/live/crystal/12345/98655.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",CNN PHILIPPINES
-http://randomserver.site:2086/live/Bria/Bria/98655.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="News",CNN Philippines
-https://df7lqp0btxdx2.cloudfront.net/11227.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="News",CNN Phillippines
-http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",DWKC TV
-http://randomserver.site:2086/live/crystal/12345/98798.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",GMA LIFE
-http://randomserver.site:2086/live/Bria/Bria/93229.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",GMA NEWS
-http://randomserver.site:2086/live/Bria/Bria/98657.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",GMA PINOY
-http://randomserver.site:2086/live/Bria/Bria/93266.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",INQUIRER 990 TV
-http://randomserver.site:2086/live/crystal/12345/98799.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",LIFE TV
-http://randomserver.site:2086/live/crystal/12345/98800.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",MYTV CEBU 30
-http://randomserver.site:2086/live/Bria/Bria/98801.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/7OsxUER.png" group-title="Undefined",UNTV
-https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",UNTV NEWS AND RESCUE
-http://randomserver.site:2086/live/crystal/12345/98803.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",UNTV NEWS AND RESCUE
-http://randomserver.site:2086/live/Bria/Bria/98803.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",TV SHOP
-http://randomserver.site:2086/live/crystal/12345/98802.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",TFC WEST (PH)
-http://66.northerniptv.ca:8000/tommy2/123456/8524?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",TFC WEST (PH)
-http://66.northerniptv.ca:8000/live/george/george123/8524.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",TFC (PH)
-http://66.northerniptv.ca:8000/live/george/george123/2.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",TFC (PH)
-http://66.northerniptv.ca:8000/tommy2/123456/2?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",TV5 (PH)
-http://66.northerniptv.ca:8000/live/george/george123/82749.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",TV5 (PH)
-http://66.northerniptv.ca:8000/tommy2/123456/82749?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",TV5 (-12) (PH)
-http://66.northerniptv.ca:8000/live/george/george123/82748.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",TV5 (-12) (PH)
-http://66.northerniptv.ca:8000/tommy2/123456/82748?checkedby:hlscat.com
-
+#EXTINF:-1 tvg-name="************** USA TVS *********" tvg-id="" group-title="" tvg-logo="",************** USA TVS  *********
+http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Classic Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Drive-in Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Family Channel
+http://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Flashback
+https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Frontier
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS High Tops
+https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Hollywood History
+http://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Main Street
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Nostalgia
+https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Nostalgia Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Tavern
+https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Turbo
+https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS TV Network
+http://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Western Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Women Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
