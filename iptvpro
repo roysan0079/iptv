@@ -55,3 +55,35 @@ http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81030?checkedby:iptvc
 http://paristvs.xyz:80/alef12/alef12/26?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",DISNEY JR UHD¹
 http://paristvs.xyz:80/alef12/alef12/305?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",AU | Fox Sports News,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",2BEIN SPORTS 1 [SD]
+http://46.105.178.212:8484/hls/ntvspor/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 1 DIGITAL*
+http://srvcliente.me:80/galdino/10203040/3094?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 1 HD
+http://srvcliente.me:80/galdino/10203040/215?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 DIGITAL*
+http://srvcliente.me:80/galdino/10203040/3097?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 HD+*
+http://srvcliente.me:80/galdino/10203040/3099?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Family DIGITAL*
+http://srvcliente.me:80/galdino/10203040/3100?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Signature HD*
+http://srvcliente.me:80/galdino/10203040/3106?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO XTREME
+http://rec2.distv.net:80/egidio/egidio/477?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Xtreme HD
+http://srvcliente.me:80/galdino/10203040/225?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/2704.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 1
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81366?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/2705.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/lJdOstp.png" group-title="Undefined",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/lJdOstp.png" group-title="Undefined",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8?checkedby:iptvcat.com
